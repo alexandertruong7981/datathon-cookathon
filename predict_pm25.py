@@ -4,7 +4,7 @@ from pathlib import Path
 import joblib
 import numpy as np
 import pandas as pd
-from train_pm25 import TARGET, features
+from V1.train_pm25 import TARGET, features
 
 
 def main():
