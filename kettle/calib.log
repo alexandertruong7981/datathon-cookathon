@@ -1,0 +1,46 @@
+winter 2014-15: RMSE 22.7470  n=50799
+decile bias (true - pred), winter 2014-15:
+q
+0     0.35
+1    -0.66
+2    -1.70
+3    -2.77
+4    -3.13
+5    -1.90
+6    -4.17
+7    -8.62
+8    -8.81
+9   -21.18
+linear fit on 2014-15: slope=0.9305 intercept=1.14
+
+winter 2015-16 (the real holdout), n=51349
+  uncalibrated           21.1319
+  isotonic from 2014-15  26.7489
+  linear   from 2014-15  26.2483
+  isotonic shrunk x0.25   22.3857
+  isotonic shrunk x0.50   23.7514
+  isotonic shrunk x0.75   25.2110
+DONE
+winter 2014-15: RMSE 22.7470  n=50799
+decile bias (true - pred), winter 2014-15:
+q
+0     0.35
+1    -0.66
+2    -1.70
+3    -2.77
+4    -3.13
+5    -1.90
+6    -4.17
+7    -8.62
+8    -8.81
+9   -21.18
+linear fit on 2014-15: slope=0.9305 intercept=1.14
+
+winter 2015-16 (the real holdout), n=51349
+  uncalibrated           21.1319
+  isotonic from 2014-15  26.7489
+  linear   from 2014-15  26.2483
+  isotonic shrunk x0.25   22.3857
+  isotonic shrunk x0.50   23.7514
+  isotonic shrunk x0.75   25.2110
+DONE
