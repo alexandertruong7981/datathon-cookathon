@@ -1,0 +1,23 @@
+# Required Disclosure
+
+## External datasets
+No external datasets were used. All modelling was based on the competition provided training and test data.
+
+## External code, notebooks or repositories
+Maxim Buryak's previously completed COMP9417 air quality project was consulted for general ideas around exploratory analysis, missing value handling and feature engineering. No public competition solutions were used.
+
+## Pretrained models
+No pretrained models were used.
+
+## AI tools
+Claude was used to help brainstorm modelling ideas and perform local model parameter optimisation.
+
+OpenAI Codex was used to assist with implementing feature engineering and data preprocessing functions. It was also used to generate much of the visualisation code.
+
+All AI generated code and suggestions were reviewed and tested by the team before use.
+
+## Prediction post processing
+No predictions were manually edited.
+
+## Additional information
+No additional external information was used beyond the competition files and the resources disclosed above.
