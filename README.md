@@ -1,5 +1,5 @@
 ## Beijing Multi-Site Air Quality
-This project was completed by Maxim Buryak & Alexander Truong as part of the Inter-uni Datathon competition. We were tasked with building a predictive model forecasting the PM2.5 concentration one hour ahead across a network of urban air-quality monitoring stations
+This project was completed by Maxim Buryak & Alexander Truong as part of the 2026 Inter-uni Datathon competition. We were tasked with building a predictive model forecasting the PM2.5 concentration one hour ahead across a network of urban air-quality monitoring stations
 
 ## Approach
 
